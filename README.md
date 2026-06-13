@@ -202,34 +202,19 @@ https://zerocoder.ru/praktikum-vizualnyj-kontent-s-ai
 ## 📸 Скриншоты
 
 ### Главное меню
-```
-/start
-├── 🔖 Создать реферальную ссылку
-├── 📊 Мой прогресс
-├── 📚 Обучение
-├── ❓ Вопрос-ответ
-├── 👥 Группа
-└── 👤 Менеджер
-```
+![Главное меню](screenshots/main_menu.png.png)
 
 ### UTM-генератор: выбор типа ссылки
-```
-🔖 Генератор реферальных ссылок
+![UTM шаг 1](screenshots/utm_step1.png.png)
 
-Выбери тип ссылки:
-[🎬 Контент (Reels, Shorts, Story...)]
-[📍 Шапка профиля (Bio)]
-[⚙️ Автоматизация (рассылки, воронки)]
-```
+### UTM-генератор: выбор продукта
+![UTM шаг 6](screenshots/utm_step6.png.png)
 
 ### Итоговая ссылка
-```
-🔗 Твоя реферальная ссылка готова:
+![Готовая ссылка](screenshots/final_link.png.png)
 
-https://zerocoder.ru/praktikum-vizualnyj-kontent-s-ai?gcpc=612b3&utm_source=ugc&utm_medium=instagram&utm_campaign=ivanova_creates&utm_content=reels_python_hook_01&utm_term=praktikum-vizualnyj-kontent-s-ai
-
-Нажми и удерживай для копирования.
-```
+### Мой прогресс
+![Прогресс](screenshots/onboarding_progress.png.png)
 
 ---
 
