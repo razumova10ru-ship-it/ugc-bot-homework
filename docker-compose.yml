@@ -1,0 +1,9 @@
+services:
+  bot:
+    build: .
+    container_name: ugc-bot
+    restart: unless-stopped
+    env_file: .env
+    volumes:
+      - ./credentials.json:/app/credentials.json:ro
+      - ./user_photos:/app/user_photos

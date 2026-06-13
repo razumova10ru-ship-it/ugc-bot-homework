@@ -1,0 +1,11 @@
+__pycache__
+*.pyc
+.env
+credentials.json
+user_photos/
+*.docx
+.git
+.gitignore
+.mcp.json
+.playwright-mcp/
+.obsidian/
